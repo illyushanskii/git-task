@@ -3,6 +3,7 @@ using System.Linq;
 
 namespace Kontur.Courses.Git
 {
+	//cdscdscdscdscdc
 	public class Calculator
 	{
 		private Maybe<double> lastResult = 0;
